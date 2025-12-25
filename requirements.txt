@@ -5,3 +5,4 @@ plotly==5.18.0
 yfinance==0.2.36
 scikit-learn==1.4.0
 python-dateutil==2.8.2
+plotly
