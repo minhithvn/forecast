@@ -1,0 +1,9 @@
+yfinance
+streamlit
+pandas
+plotly
+numpy
+time
+hashlib
+warnings
+datetime
